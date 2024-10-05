@@ -5,3 +5,4 @@ Berikut beberapa method yg saya pakai
 =>POST untuk menambahkan data<=
 =>DELETE untuk menghapus data<=
 =>PUT untuk mengubah data<=
+![alt text](https://github.com/arsalfrlh/API-php-mysql/blob/main/api.png?raw=true)
